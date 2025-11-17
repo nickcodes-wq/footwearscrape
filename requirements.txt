@@ -1,15 +1,6 @@
-# Core web scraping
+streamlit==1.25.0
 selenium==4.15.2
 beautifulsoup4==4.12.2
 webdriver-manager==4.0.1
-
-# Data handling
-pandas==2.1.4
+pandas==2.1.2
 openpyxl==3.1.2
-
-# Web UI
-streamlit==1.29.0
-
-# HTML parsing
-lxml==4.9.3
-html5lib==1.1
